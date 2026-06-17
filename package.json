@@ -1,0 +1,11 @@
+{
+  "name": "gvirtus-pdf-signer",
+  "version": "1.0.0",
+  "description": "Assinatura digital de PDF com certificado A1",
+  "dependencies": {
+    "node-forge": "^1.3.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
